@@ -3,6 +3,10 @@
 Sisteminizde Sarj Durumu Ile Alakali Bir Sistem Yoksa Kullanabilirsiniz.
 Linux sistemlerinde Calisir
 
+# Yukleme
+``sh make `` 
+yapmaniz yeterli sonrasinda
+ 
 ``sh
 statobat -h
 ``
